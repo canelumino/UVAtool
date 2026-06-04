@@ -19,10 +19,8 @@ UVA also includes a local WebUI for reviewing and correcting the generated segme
 - Make a new singer
 - Segment and add articulations to the db
 - Add stationaries to the db
-
-<video src="https://youtu.be/sCq-MGHPKOA" width="100%" controls>
-</video>
 ---
+
 ## Learn how to use it 
 
 (click)
