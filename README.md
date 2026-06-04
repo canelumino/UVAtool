@@ -22,5 +22,10 @@ UVA also includes a local WebUI for reviewing and correcting the generated segme
 
 <video src="https://youtu.be/sCq-MGHPKOA" width="100%" controls>
 </video>
+---
+## Learn how to use it 
+
+(click)
+
 
 [![Learn how to use it.](https://img.youtube.com/vi/sCq-MGHPKOA/0.jpg)](https://www.youtube.com/watch?v=sCq-MGHPKOA)
