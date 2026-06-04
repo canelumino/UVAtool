@@ -20,4 +20,6 @@ UVA also includes a local WebUI for reviewing and correcting the generated segme
 - Segment and add articulations to the db
 - Add stationaries to the db
 
-[![Tutorial]([https://youtube.com](https://youtu.be/sCq-MGHPKOA))]([https://youtube.com](https://youtu.be/sCq-MGHPKOA))
+<video src="[URL_DEL_TUO_VIDEO](https://youtu.be/sCq-MGHPKOA)" width="100%" controls>
+</video>
+
